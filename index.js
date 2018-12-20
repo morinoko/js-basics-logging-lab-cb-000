@@ -7,4 +7,4 @@ console.log('this code was called');
 console.log(driver);
 
 // Pass multiple arguments into console log
-console.log(driver, '')
+console.log(driver, 'is the driver variable name');
